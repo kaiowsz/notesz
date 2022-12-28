@@ -1,4 +1,4 @@
-<h1>Notesz</h1>
+<h1 align="center">Notesz</h1>
 <p>Front end of application made with React.</p>
 
 ![Home page of the application](https://github.com/kaiowsz/notesz/blob/main/src/assets/readme.png)
